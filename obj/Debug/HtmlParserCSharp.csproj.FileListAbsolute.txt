@@ -1,0 +1,7 @@
+C:\wahid\HtmlParser\HtmlParser\HtmlParserCSharp\bin\Debug\HtmlParserCSharp.dll
+C:\wahid\HtmlParser\HtmlParser\HtmlParserCSharp\bin\Debug\HtmlParserCSharp.pdb
+C:\wahid\HtmlParser\HtmlParser\HtmlParserCSharp\bin\Debug\HtmlAgilityPack.dll
+C:\wahid\HtmlParser\HtmlParser\HtmlParserCSharp\bin\Debug\HtmlAgilityPack.pdb
+C:\wahid\HtmlParser\HtmlParser\HtmlParserCSharp\bin\Debug\HtmlAgilityPack.xml
+C:\wahid\HtmlParser\HtmlParser\HtmlParserCSharp\obj\Debug\HtmlParserCSharp.dll
+C:\wahid\HtmlParser\HtmlParser\HtmlParserCSharp\obj\Debug\HtmlParserCSharp.pdb
